@@ -1,4 +1,7 @@
-# CS753-ASR
+# Automated Recognition, Processing and Sentiment Analysis of Speech
+
+CS753-Automatic Speech Recognition
+
 Assignment 1  
 RNN: https://colab.research.google.com/drive/1qFt8qxKtM05hRuRxsA1Lq4JtP7tstcgc?usp=sharing  
 LSTM: https://colab.research.google.com/drive/1c5lwuALNylCoDMVt36gi2nPT8HSgZ0GN?usp=sharing \
@@ -11,3 +14,5 @@ Task 2: https://colab.research.google.com/drive/12kk1KBEKV7xvW6MTKu1yOyAs2kbuxza
 Project:  
 https://colab.research.google.com/drive/1asDGXRT2mPQM4yQQLluz60Vukhthkcyl?usp=sharing  
 Github: https://github.com/Keshav1711/ASR-Hacker\
+
+Project Tam: Amruta Parulekar, Keshav Singhal, Sameep Chattopadhyay
